@@ -1,0 +1,11 @@
+#ItemGroup
+##CreativeTab
+itemGroup.tn=Technium
+
+#Items
+item.tn:ingot_copper.name=Copper Ingot
+items.tn:ore_copper.name=Copper Ore
+
+#Blocks
+tile.tn:ore_copper.name=Copper Ore
+tile.tn:ore_silver.name=Silver Ore
