@@ -5,8 +5,8 @@ Time: 7/1/18 7:52 PM
 Description: Initializing game
 
 java.lang.NullPointerException: Initializing game
-	at com.severedinfinity.tn.utility.handlers.ModelRegistryHandler.registerModel(ModelRegistryHandler.java:22)
-	at com.severedinfinity.tn.utility.handlers.ModelRegistryHandler.registerModels(ModelRegistryHandler.java:17)
+	at com.severedinfinity.technium.utility.handlers.ModelRegistryHandler.registerModel(ModelRegistryHandler.java:22)
+	at com.severedinfinity.technium.utility.handlers.ModelRegistryHandler.registerModels(ModelRegistryHandler.java:17)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_4_ModelRegistryHandler_registerModels_ModelRegistryEvent.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
@@ -38,8 +38,8 @@ A detailed walkthrough of the error, its code path and all known details is as f
 -- Head --
 Thread: Client thread
 Stacktrace:
-	at com.severedinfinity.tn.utility.handlers.ModelRegistryHandler.registerModel(ModelRegistryHandler.java:22)
-	at com.severedinfinity.tn.utility.handlers.ModelRegistryHandler.registerModels(ModelRegistryHandler.java:17)
+	at com.severedinfinity.technium.utility.handlers.ModelRegistryHandler.registerModel(ModelRegistryHandler.java:22)
+	at com.severedinfinity.technium.utility.handlers.ModelRegistryHandler.registerModels(ModelRegistryHandler.java:17)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_4_ModelRegistryHandler_registerModels_ModelRegistryEvent.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)

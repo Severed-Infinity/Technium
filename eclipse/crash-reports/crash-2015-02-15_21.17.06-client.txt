@@ -44,7 +44,7 @@ java.lang.NoClassDefFoundError: Lcom/severedinfinity/tn/proxy/IProxy;
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:78)
 	at GradleStart.main(GradleStart.java:45)
-Caused by: java.lang.ClassNotFoundException: com.severedinfinity.tn.proxy.IProxy
+Caused by: java.lang.ClassNotFoundException: com.severedinfinity.technium.proxy.IProxy
 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)

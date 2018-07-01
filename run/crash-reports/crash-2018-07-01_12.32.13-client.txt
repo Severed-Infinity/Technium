@@ -4,7 +4,7 @@
 Time: 7/1/18 12:32 PM
 Description: There was a severe problem during mod loading that has caused the game to fail
 
-net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException: Method public static void com.severedinfinity.tn.utility.handlers.ModelRegistryHandler.registerModels(com.severedinfinity.tn.utility.handlers.ModelRegistryHandler) has @SubscribeEvent annotation, but takes a argument that is not an Event class com.severedinfinity.tn.utility.handlers.ModelRegistryHandler
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException: Method public static void com.severedinfinity.technium.utility.handlers.ModelRegistryHandler.registerModels(com.severedinfinity.technium.utility.handlers.ModelRegistryHandler) has @SubscribeEvent annotation, but takes a argument that is not an Event class com.severedinfinity.technium.utility.handlers.ModelRegistryHandler
 	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:89)
 	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:604)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -49,7 +49,7 @@ net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentExceptio
 	at java.lang.reflect.Method.invoke(Method.java:498)
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
 	at GradleStart.main(GradleStart.java:25)
-Caused by: java.lang.IllegalArgumentException: Method public static void com.severedinfinity.tn.utility.handlers.ModelRegistryHandler.registerModels(com.severedinfinity.tn.utility.handlers.ModelRegistryHandler) has @SubscribeEvent annotation, but takes a argument that is not an Event class com.severedinfinity.tn.utility.handlers.ModelRegistryHandler
+Caused by: java.lang.IllegalArgumentException: Method public static void com.severedinfinity.technium.utility.handlers.ModelRegistryHandler.registerModels(com.severedinfinity.technium.utility.handlers.ModelRegistryHandler) has @SubscribeEvent annotation, but takes a argument that is not an Event class com.severedinfinity.technium.utility.handlers.ModelRegistryHandler
 	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:109)
 	at net.minecraftforge.fml.common.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:82)
 	... 43 more

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f27996e-cf8a-4d54-9ad2-fd25de340dae" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/ModelRegistryHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" afterDir="false" />
@@ -12,48 +11,16 @@
       <change beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/gradle.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/core/CreativeTab$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/core/CreativeTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/core/CreativeTab.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/core/Technium.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/core/Technium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/initialise/TnModItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/initialise/TnModItems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/item/ItemIngotCopper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/item/ItemIngotCopper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/item/ItemTnBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/item/ItemTnBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/proxy/ClientProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/proxy/ClientProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/proxy/CommonProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/proxy/IProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/proxy/IProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/proxy/ServerProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/proxy/ServerProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/reference/Names$Blocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/reference/Names$Blocks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/reference/Names$Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/reference/Names$Items.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/reference/Reference.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/reference/Reference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/reference/Textures.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/reference/Textures.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/utility/LogHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/utility/LogHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/utility/handlers/RegistryHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/com/severedinfinity/tn/utility/handlers/RegistryHandler.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/libs/Technium-1.12-0.0.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Technium-1.12-0.0.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/assets/tn/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/tn/lang/en_US.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/resources/main/assets/tn/models/item/ingot_copper.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/assets/tn/models/item/ingot_copper.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/mcmod.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/core/CreativeTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/core/CreativeTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/core/Technium.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/core/Technium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/initialise/TnModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/initialise/TnModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/item/ItemIngotCopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/item/ItemIngotCopper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/item/ItemTnBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/item/ItemTnBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/proxy/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/proxy/ClientProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/proxy/CommonProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/proxy/IProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/proxy/IProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/proxy/ServerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/proxy/ServerProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/reference/Names.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/reference/Names.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/reference/Reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/reference/Reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/utility/IHasModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/utility/IHasModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/utility/LogHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/utility/LogHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/utility/handlers/RegistryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/sources/main/java/com/severedinfinity/tn/utility/handlers/RegistryHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-06-30-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-06-30-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-06-30-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-06-30-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-06-30-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-06-30-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-06-30-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-06-30-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-06-30-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-06-30-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-06-30-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-06-30-6.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2018-06-30-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-06-30-7.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-07-01-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-07-01-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-07-01-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-07-01-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-07-01-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-07-01-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-07-01-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-07-01-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-07-01-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-07-01-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-07-01-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-07-01-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2018-07-01-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2018-07-01-7.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
@@ -61,86 +28,16 @@
       <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/DIM-1/data/capabilities.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/DIM-1/data/villages_nether.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/DIM-1/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/DIM1/data/capabilities.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/DIM1/data/villages_end.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/DIM1/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/0d077092-9045-3af8-b41e-a691f388e76a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/1a5e202b-4f68-3cab-a1c2-b7c265b33cf5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/25dc5eb7-e593-3192-87a1-eb20288493eb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/32c6d70c-2b61-390a-8ed9-2ab7ce3ffeef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/5bd62aa7-8886-32aa-953e-97bdbc2a6931.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/6b0be7c5-d502-342b-9566-f3750127a843.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/6ef60f0d-ee89-3acd-9711-6e64aaf89fef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/78b89d61-eeb6-339b-a649-bd65ff29a266.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/7ff3eb93-8be9-3a7d-9590-647acffcfb2b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/9a9311e6-0e2a-3db9-849c-c74b23116910.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/ad8236b9-e26f-349c-902e-7100197cd86d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/b436a3b6-3bfd-34ab-a0ca-b7a09efebbdc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/advancements/eb3e37b3-0c87-3026-b460-637c38fd4fdd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/data/Village.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/data/capabilities.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/data/villages.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/forcedchunks.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/level.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/level.dat_old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/0d077092-9045-3af8-b41e-a691f388e76a.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/1a5e202b-4f68-3cab-a1c2-b7c265b33cf5.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/25dc5eb7-e593-3192-87a1-eb20288493eb.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/32c6d70c-2b61-390a-8ed9-2ab7ce3ffeef.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/5bd62aa7-8886-32aa-953e-97bdbc2a6931.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/6b0be7c5-d502-342b-9566-f3750127a843.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/6ef60f0d-ee89-3acd-9711-6e64aaf89fef.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/78b89d61-eeb6-339b-a649-bd65ff29a266.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/7ff3eb93-8be9-3a7d-9590-647acffcfb2b.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/9a9311e6-0e2a-3db9-849c-c74b23116910.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/ad8236b9-e26f-349c-902e-7100197cd86d.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/b436a3b6-3bfd-34ab-a0ca-b7a09efebbdc.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/playerdata/eb3e37b3-0c87-3026-b460-637c38fd4fdd.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/region/r.-1.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/region/r.-1.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/region/r.0.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/region/r.0.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/region/r.0.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/region/r.1.-1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/region/r.1.0.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/region/r.1.1.mca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/session.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/0d077092-9045-3af8-b41e-a691f388e76a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/1a5e202b-4f68-3cab-a1c2-b7c265b33cf5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/25dc5eb7-e593-3192-87a1-eb20288493eb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/32c6d70c-2b61-390a-8ed9-2ab7ce3ffeef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/5bd62aa7-8886-32aa-953e-97bdbc2a6931.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/6b0be7c5-d502-342b-9566-f3750127a843.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/6ef60f0d-ee89-3acd-9711-6e64aaf89fef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/78b89d61-eeb6-339b-a649-bd65ff29a266.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/7ff3eb93-8be9-3a7d-9590-647acffcfb2b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/9a9311e6-0e2a-3db9-849c-c74b23116910.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/ad8236b9-e26f-349c-902e-7100197cd86d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/b436a3b6-3bfd-34ab-a0ca-b7a09efebbdc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/testworld/stats/eb3e37b3-0c87-3026-b460-637c38fd4fdd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.2.-3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.2.-3.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.2.-4.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.2.-4.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.3.-3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.3.-3.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/region/r.3.-4.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.3.-4.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/core/CreativeTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/core/CreativeTab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/core/Technium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/core/Technium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/initialise/TnModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/initialise/TnModItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemIngotCopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemIngotCopper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemTnBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemTnBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/ClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/ClientProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/CommonProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/IProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/IProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/ServerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/ServerProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/reference/Names.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/reference/Names.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/reference/Reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/reference/Reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/IHasModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/IHasModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/LogHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/LogHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/RegistryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/RegistryHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tn/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tn/lang/en_US.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/tn/models/item/ingot_copper.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/tn/models/item/ingot_copper.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -213,19 +110,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Technium.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/core/Technium.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemTnBase.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ItemTnBase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemTnBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -237,19 +122,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegistryHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/RegistryHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModelRegistryHandler.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ModelRegistryHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/ModelRegistryHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -261,28 +134,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="mcmod.info" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ItemIngotCopper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemIngotCopper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreativeTab.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/core/CreativeTab.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1266#1267#0" expanded="true" />
-                <element signature="e#1303#1304#0" expanded="true" />
-                <element signature="e#1146#1186#0" />
-                <element signature="e#1733#1734#0" expanded="true" />
-                <element signature="e#1754#1755#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -303,7 +168,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/tn/models/item/ingot_copper.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -990,7 +855,6 @@
         <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
         <option value="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/reference/Names.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemIngotCopper.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/tn/models/item/ingot_copper.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/IHasModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/LogHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/IProxy.java" />
@@ -1003,6 +867,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/RegistryHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/initialise/TnModItems.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/ModelRegistryHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/tn/models/item/ingot_copper.json" />
       </list>
     </option>
   </component>
@@ -1434,15 +1299,16 @@
       <workItem from="1530348651597" duration="7563000" />
       <workItem from="1530441565476" duration="93000" />
       <workItem from="1530441761052" duration="2542000" />
-      <workItem from="1530469226668" duration="3311000" />
+      <workItem from="1530469226668" duration="4182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26447000" />
+    <option name="totallyTimeSpent" value="27318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50061053" side_tool="true" weight="0.32951945" />
@@ -1461,10 +1327,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.29538462" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.29538462" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32923076" />
       <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -1485,27 +1351,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/CommonProxy.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/proxy/ClientProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="46" column="107" selection-start-line="46" selection-start-column="107" selection-end-line="46" selection-end-column="107" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/RegistryHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/core/Technium.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -1656,13 +1501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -1831,15 +1669,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/tn/models/item/ingot_copper.json">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemIngotCopper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="90">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/ModelRegistryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="121" selection-start-line="21" selection-start-column="121" selection-end-line="21" selection-end-column="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/assets/tn/textures/items/ingot_copper.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705.jar!/assets/minecraft/models/item/acacia_boat.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705.jar!/assets/minecraft/models/item/iron_block.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.4.2705/snapshot/20171003/forgeSrc-1.12.2-14.23.4.2705.jar!/assets/minecraft/models/item/iron_ore.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/tn/models/item/ingot_copper.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/initialise/TnModItems.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1851,27 +1722,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemIngotCopper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/item/ItemTnBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/severedinfinity/tn/utility/handlers/ModelRegistryHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="121" selection-start-line="21" selection-start-column="121" selection-end-line="21" selection-end-column="121" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

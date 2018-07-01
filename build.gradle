@@ -29,7 +29,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "1.12-0.0.0.0"
-group = "com.severedinfinity.tn" // http://maven.apache.org/guides/mini/guide-naming-conventions
+group = "com.severedinfinity.technium" // http://maven.apache.org/guides/mini/guide-naming-conventions
 // .html
 archivesBaseName = "Technium"
 

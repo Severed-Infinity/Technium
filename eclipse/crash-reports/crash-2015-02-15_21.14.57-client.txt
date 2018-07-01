@@ -4,7 +4,7 @@
 Time: 15/02/15 21:14
 Description: There was a severe problem during mod loading that has caused the game to fail
 
-net.minecraftforge.fml.common.LoaderException: java.lang.ClassNotFoundException: com.severedinfinity.tn.proxy.ClientProxy
+net.minecraftforge.fml.common.LoaderException: java.lang.ClassNotFoundException: com.severedinfinity.technium.proxy.ClientProxy
 	at net.minecraftforge.fml.common.ProxyInjector.inject(ProxyInjector.java:77)
 	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:494)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -41,7 +41,7 @@ net.minecraftforge.fml.common.LoaderException: java.lang.ClassNotFoundException:
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:78)
 	at GradleStart.main(GradleStart.java:45)
-Caused by: java.lang.ClassNotFoundException: com.severedinfinity.tn.proxy.ClientProxy
+Caused by: java.lang.ClassNotFoundException: com.severedinfinity.technium.proxy.ClientProxy
 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)

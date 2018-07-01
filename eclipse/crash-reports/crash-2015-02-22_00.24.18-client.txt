@@ -4,14 +4,14 @@
 Time: 22/02/15 00:24
 Description: Initializing game
 
-java.lang.IllegalArgumentException: The name Tn:copperOre has been registered twice, for net.minecraft.item.ItemBlock@1a7084ec and com.severedinfinity.tn.item.ItemCopperOre@20531934.
+java.lang.IllegalArgumentException: The name Tn:copperOre has been registered twice, for net.minecraft.item.ItemBlock@1a7084ec and com.severedinfinity.technium.item.ItemCopperOre@20531934.
 	at net.minecraftforge.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:386)
 	at net.minecraftforge.fml.common.registry.GameData.registerItem(GameData.java:747)
 	at net.minecraftforge.fml.common.registry.GameData.registerItem(GameData.java:711)
 	at net.minecraftforge.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:143)
 	at net.minecraftforge.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:131)
-	at com.severedinfinity.tn.initialise.TnModItems.initItems(TnModItems.java:40)
-	at com.severedinfinity.tn.core.Technium.preInitialisationEvent(Technium.java:45)
+	at com.severedinfinity.technium.initialise.TnModItems.initItems(TnModItems.java:40)
+	at com.severedinfinity.technium.core.Technium.preInitialisationEvent(Technium.java:45)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -63,8 +63,8 @@ Stacktrace:
 	at net.minecraftforge.fml.common.registry.GameData.registerItem(GameData.java:711)
 	at net.minecraftforge.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:143)
 	at net.minecraftforge.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:131)
-	at com.severedinfinity.tn.initialise.TnModItems.initItems(TnModItems.java:40)
-	at com.severedinfinity.tn.core.Technium.preInitialisationEvent(Technium.java:45)
+	at com.severedinfinity.technium.initialise.TnModItems.initItems(TnModItems.java:40)
+	at com.severedinfinity.technium.core.Technium.preInitialisationEvent(Technium.java:45)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

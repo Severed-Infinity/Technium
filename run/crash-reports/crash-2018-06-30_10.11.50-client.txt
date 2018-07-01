@@ -4,13 +4,13 @@
 Time: 6/30/18 10:11 AM
 Description: Initializing game
 
-java.lang.NullPointerException: Can't use a null-name for the registry, object com.severedinfinity.tn.item.ItemTnBase@1a787480.
+java.lang.NullPointerException: Can't use a null-name for the registry, object com.severedinfinity.technium.item.ItemTnBase@1a787480.
 	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:864)
 	at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:291)
 	at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:285)
 	at net.minecraftforge.registries.ForgeRegistry.register(ForgeRegistry.java:118)
 	at net.minecraftforge.registries.ForgeRegistry.registerAll(ForgeRegistry.java:159)
-	at com.severedinfinity.tn.utility.handlers.RegistryHandler.onItemRegister(RegistryHandler.java:16)
+	at com.severedinfinity.technium.utility.handlers.RegistryHandler.onItemRegister(RegistryHandler.java:16)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_4_RegistryHandler_onItemRegister_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
@@ -46,7 +46,7 @@ Stacktrace:
 	at net.minecraftforge.registries.ForgeRegistry.add(ForgeRegistry.java:285)
 	at net.minecraftforge.registries.ForgeRegistry.register(ForgeRegistry.java:118)
 	at net.minecraftforge.registries.ForgeRegistry.registerAll(ForgeRegistry.java:159)
-	at com.severedinfinity.tn.utility.handlers.RegistryHandler.onItemRegister(RegistryHandler.java:16)
+	at com.severedinfinity.technium.utility.handlers.RegistryHandler.onItemRegister(RegistryHandler.java:16)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_4_RegistryHandler_onItemRegister_Register.invoke(.dynamic)
 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
 	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)

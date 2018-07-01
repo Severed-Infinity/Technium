@@ -924,7 +924,7 @@
 [11:39:06] [Client thread/DEBUG] [FML/]: The mod container jsr305-2.0.1.jar appears to be missing an mcmod.info file
 [11:39:06] [Client thread/DEBUG] [FML/]: Examining file Technium-1.8-1.0.jar for potential mods
 [11:39:06] [Client thread/TRACE] [FML/]: Located mcmod.info file in file Technium-1.8-1.0.jar
-[11:39:06] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.severedinfinity.tn.core.Technium) - loading
+[11:39:06] [Client thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.severedinfinity.technium.core.Technium) - loading
 [11:39:06] [Client thread/TRACE] [Tn/]: Parsed dependency info : [] [] []
 [11:39:06] [Client thread/INFO] [FML/]: Forge Mod Loader has identified 4 mods to load
 [11:39:06] [Client thread/TRACE] [FML/]: Received a system property request ''
@@ -1048,14 +1048,14 @@
 [11:39:06] [Client thread/TRACE] [Tn/Tn]: Sending event FMLPreInitializationEvent to mod Tn
 [11:39:06] [Client thread/INFO] [Technium/Tn]: ##################### Technium #####################
 [11:39:06] [Client thread/INFO] [Technium/Tn]: Technium pre-initialisation event beginning
-[11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:copperOre 198 com.severedinfinity.tn.block.BlockOre@8eb1297 (req. id -1)
-[11:39:06] [Client thread/DEBUG] [FML/Tn]: Found matching Block com.severedinfinity.tn.block.BlockOre@8eb1297 for ItemBlock net.minecraft.item.ItemBlock@3f2cc8ab at id 198, original id requested: -1
+[11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:copperOre 198 com.severedinfinity.technium.block.BlockOre@8eb1297 (req. id -1)
+[11:39:06] [Client thread/DEBUG] [FML/Tn]: Found matching Block com.severedinfinity.technium.block.BlockOre@8eb1297 for ItemBlock net.minecraft.item.ItemBlock@3f2cc8ab at id 198, original id requested: -1
 [11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:copperOre 198 net.minecraft.item.ItemBlock@3f2cc8ab (req. id 198)
-[11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:silverOre 199 com.severedinfinity.tn.block.BlockOre@7dcbcede (req. id -1)
-[11:39:06] [Client thread/DEBUG] [FML/Tn]: Found matching Block com.severedinfinity.tn.block.BlockOre@7dcbcede for ItemBlock net.minecraft.item.ItemBlock@22ef1086 at id 199, original id requested: -1
+[11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:silverOre 199 com.severedinfinity.technium.block.BlockOre@7dcbcede (req. id -1)
+[11:39:06] [Client thread/DEBUG] [FML/Tn]: Found matching Block com.severedinfinity.technium.block.BlockOre@7dcbcede for ItemBlock net.minecraft.item.ItemBlock@22ef1086 at id 199, original id requested: -1
 [11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:silverOre 199 net.minecraft.item.ItemBlock@22ef1086 (req. id 199)
-[11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:copperIngot 4096 com.severedinfinity.tn.item.ItemCopperIngot@7b5ffde0 (req. id -1)
-[11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:copperOreItem 4097 com.severedinfinity.tn.item.ItemCopperOre@5841716b (req. id -1)
+[11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:copperIngot 4096 com.severedinfinity.technium.item.ItemCopperIngot@7b5ffde0 (req. id -1)
+[11:39:06] [Client thread/TRACE] [FML/Tn]: Registry add: Tn:copperOreItem 4097 com.severedinfinity.technium.item.ItemCopperOre@5841716b (req. id -1)
 [11:39:06] [Client thread/INFO] [Technium/Tn]: Items initialised
 [11:39:06] [Client thread/INFO] [Technium/Tn]: Ore Dictionary Items initialised
 [11:39:06] [Client thread/INFO] [Technium/Tn]: Technium pre-initialisation event complete
@@ -1349,8 +1349,8 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:jungle_door 195 net.minecraft.block.BlockDoor@26e8ff8c
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:acacia_door 196 net.minecraft.block.BlockDoor@5b0dbfb
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:dark_oak_door 197 net.minecraft.block.BlockDoor@7a65c995
-[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperOre 198 com.severedinfinity.tn.block.BlockOre@8eb1297
-[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:silverOre 199 com.severedinfinity.tn.block.BlockOre@7dcbcede
+[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperOre 198 com.severedinfinity.technium.block.BlockOre@8eb1297
+[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:silverOre 199 com.severedinfinity.technium.block.BlockOre@7dcbcede
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:stone 1 net.minecraft.item.ItemMultiTexture@3fde2209
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:grass 2 net.minecraft.item.ItemColored@1f916219
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:dirt 3 net.minecraft.item.ItemMultiTexture@611d0763
@@ -1690,8 +1690,8 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:record_ward 2265 net.minecraft.item.ItemRecord@7af327e3
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:record_11 2266 net.minecraft.item.ItemRecord@743d0d44
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:record_wait 2267 net.minecraft.item.ItemRecord@35563e4c
-[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperIngot 4096 com.severedinfinity.tn.item.ItemCopperIngot@7b5ffde0
-[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperOreItem 4097 com.severedinfinity.tn.item.ItemCopperOre@5841716b
+[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperIngot 4096 com.severedinfinity.technium.item.ItemCopperIngot@7b5ffde0
+[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperOreItem 4097 com.severedinfinity.technium.item.ItemCopperOre@5841716b
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:wooden_button 143 net.minecraft.block.BlockButtonWood@122635ef (req. id 143)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:stained_hardened_clay 159 net.minecraft.block.BlockColored@902fdbe (req. id 159)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:daylight_detector_inverted 178 net.minecraft.block.BlockDaylightDetector@1f84327b (req. id 178)
@@ -1699,7 +1699,7 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:golden_rail 27 net.minecraft.block.BlockRailPowered@4f3bbf68 (req. id 27)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:double_stone_slab2 181 net.minecraft.block.BlockDoubleStoneSlabNew@59018eed (req. id 181)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:acacia_fence_gate 187 net.minecraft.block.BlockFenceGate@67e0fd6d (req. id 187)
-[11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:copperOre 198 com.severedinfinity.tn.block.BlockOre@8eb1297 (req. id 198)
+[11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:copperOre 198 com.severedinfinity.technium.block.BlockOre@8eb1297 (req. id 198)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:grass 2 net.minecraft.block.BlockGrass@2a7ed1f (req. id 2)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:oak_stairs 53 net.minecraft.block.BlockStairs@1894e40d (req. id 53)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:fire 51 net.minecraft.block.BlockFire@5649ec46 (req. id 51)
@@ -1725,7 +1725,7 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:dark_oak_fence 191 net.minecraft.block.BlockFence@16a3cc88 (req. id 191)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:jungle_fence_gate 185 net.minecraft.block.BlockFenceGate@14c99bf6 (req. id 185)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:jukebox 84 net.minecraft.block.BlockJukebox@5583098b (req. id 84)
-[11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:silverOre 199 com.severedinfinity.tn.block.BlockOre@7dcbcede (req. id 199)
+[11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:silverOre 199 com.severedinfinity.technium.block.BlockOre@7dcbcede (req. id 199)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:ice 79 net.minecraft.block.BlockIce@59a79443 (req. id 79)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:beacon 138 net.minecraft.block.BlockBeacon@733c464f (req. id 138)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:waterlily 111 net.minecraft.block.BlockLilyPad@7d986d83 (req. id 111)
@@ -1914,7 +1914,7 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:golden_hoe 294 net.minecraft.item.ItemHoe@5f8f1712 (req. id 294)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:rabbit_hide 415 net.minecraft.item.Item@16e1219f (req. id 415)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:comparator 404 net.minecraft.item.ItemReed@22a4ca4a (req. id 404)
-[11:39:32] [Server thread/DEBUG] [FML/]: Found matching Block com.severedinfinity.tn.block.BlockOre@8eb1297 for ItemBlock net.minecraft.item.ItemBlock@3f2cc8ab at id 198, original id requested: 198
+[11:39:32] [Server thread/DEBUG] [FML/]: Found matching Block com.severedinfinity.technium.block.BlockOre@8eb1297 for ItemBlock net.minecraft.item.ItemBlock@3f2cc8ab at id 198, original id requested: 198
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:copperOre 198 net.minecraft.item.ItemBlock@3f2cc8ab (req. id 198)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:stone_shovel 273 net.minecraft.item.ItemSpade@7739aac4 (req. id 273)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:ender_eye 381 net.minecraft.item.ItemEnderEye@527937d0 (req. id 381)
@@ -1974,7 +1974,7 @@
 [11:39:32] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockJukebox@5583098b for ItemBlock net.minecraft.item.ItemBlock@2589d787 at id 84, original id requested: 84
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:jukebox 84 net.minecraft.item.ItemBlock@2589d787 (req. id 84)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:golden_carrot 396 net.minecraft.item.ItemFood@99a8de3 (req. id 396)
-[11:39:32] [Server thread/DEBUG] [FML/]: Found matching Block com.severedinfinity.tn.block.BlockOre@7dcbcede for ItemBlock net.minecraft.item.ItemBlock@22ef1086 at id 199, original id requested: 199
+[11:39:32] [Server thread/DEBUG] [FML/]: Found matching Block com.severedinfinity.technium.block.BlockOre@7dcbcede for ItemBlock net.minecraft.item.ItemBlock@22ef1086 at id 199, original id requested: 199
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:silverOre 199 net.minecraft.item.ItemBlock@22ef1086 (req. id 199)
 [11:39:32] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockIce@59a79443 for ItemBlock net.minecraft.item.ItemBlock@34c7232c at id 79, original id requested: 79
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:ice 79 net.minecraft.item.ItemBlock@34c7232c (req. id 79)
@@ -2049,7 +2049,7 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:diamond_ore 56 net.minecraft.item.ItemBlock@437ed416 (req. id 56)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:diamond_shovel 277 net.minecraft.item.ItemSpade@5d850a25 (req. id 277)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:leather_helmet 298 net.minecraft.item.ItemArmor@2997ddfc (req. id 298)
-[11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:copperOreItem 4097 com.severedinfinity.tn.item.ItemCopperOre@5841716b (req. id 4097)
+[11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:copperOreItem 4097 com.severedinfinity.technium.item.ItemCopperOre@5841716b (req. id 4097)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:magma_cream 378 net.minecraft.item.Item@61b60600 (req. id 378)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:coal 263 net.minecraft.item.ItemCoal@3820cfe (req. id 263)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:string 287 net.minecraft.item.ItemReed@46a8c2b4 (req. id 287)
@@ -2373,7 +2373,7 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:cooked_rabbit 412 net.minecraft.item.ItemFood@27e44e9c (req. id 412)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:spider_eye 375 net.minecraft.item.ItemFood@5122e4bf (req. id 375)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:iron_pickaxe 257 net.minecraft.item.ItemPickaxe@6d4a82 (req. id 257)
-[11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:copperIngot 4096 com.severedinfinity.tn.item.ItemCopperIngot@7b5ffde0 (req. id 4096)
+[11:39:32] [Server thread/TRACE] [FML/]: Registry add: tn:copperIngot 4096 com.severedinfinity.technium.item.ItemCopperIngot@7b5ffde0 (req. id 4096)
 [11:39:32] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockClay@326e0b8e for ItemBlock net.minecraft.item.ItemBlock@285a4fe3 at id 82, original id requested: 82
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:clay 82 net.minecraft.item.ItemBlock@285a4fe3 (req. id 82)
 [11:39:32] [Server thread/TRACE] [FML/]: Registry add: minecraft:gold_ingot 266 net.minecraft.item.Item@28b8f98a (req. id 266)
@@ -2584,8 +2584,8 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:jungle_door 195 net.minecraft.block.BlockDoor@26e8ff8c
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:acacia_door 196 net.minecraft.block.BlockDoor@5b0dbfb
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:dark_oak_door 197 net.minecraft.block.BlockDoor@7a65c995
-[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperOre 198 com.severedinfinity.tn.block.BlockOre@8eb1297
-[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:silverOre 199 com.severedinfinity.tn.block.BlockOre@7dcbcede
+[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperOre 198 com.severedinfinity.technium.block.BlockOre@8eb1297
+[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:silverOre 199 com.severedinfinity.technium.block.BlockOre@7dcbcede
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:stone 1 net.minecraft.item.ItemMultiTexture@3fde2209
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:grass 2 net.minecraft.item.ItemColored@1f916219
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:dirt 3 net.minecraft.item.ItemMultiTexture@611d0763
@@ -2925,8 +2925,8 @@
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:record_ward 2265 net.minecraft.item.ItemRecord@7af327e3
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:record_11 2266 net.minecraft.item.ItemRecord@743d0d44
 [11:39:32] [Server thread/TRACE] [FML/]: Registry: minecraft:record_wait 2267 net.minecraft.item.ItemRecord@35563e4c
-[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperIngot 4096 com.severedinfinity.tn.item.ItemCopperIngot@7b5ffde0
-[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperOreItem 4097 com.severedinfinity.tn.item.ItemCopperOre@5841716b
+[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperIngot 4096 com.severedinfinity.technium.item.ItemCopperIngot@7b5ffde0
+[11:39:32] [Server thread/TRACE] [FML/]: Registry: tn:copperOreItem 4097 com.severedinfinity.technium.item.ItemCopperOre@5841716b
 [11:39:32] [Server thread/TRACE] [FML/]: Skipping remap event - no remaps occured
 [11:39:32] [Server thread/INFO] [FML/]: Applying holder lookups
 [11:39:32] [Server thread/INFO] [FML/]: Holder lookups applied
