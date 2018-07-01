@@ -21,7 +21,7 @@
 package com.severedinfinity.tn.reference;
 
 public class Reference {
-  public static final String MOD_ID = "tn";
+  public static final String MOD_ID = "technium";
 //  public static final String LOWERCASE_MOD_ID = MOD_ID.toLowerCase();
   public static final String MOD_NAME = "Technium";
   public static final String FINGERPRINT = "@FINGERPRINT@";

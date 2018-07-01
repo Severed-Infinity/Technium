@@ -39,12 +39,15 @@ public class Technium {
   public static Technium techniumInstance;
   @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
   public static IProxy proxy;
-  public static final CreativeTabs techniumTab = CreativeTab.TN_TAB;
+  public static final CreativeTabs TN_TAB = new CreativeTab(Reference.MOD_ID);
 
   @Mod.EventHandler
   public void preInitialisationEvent(FMLPreInitializationEvent event) {
+    LogHelper.logger = event.getModLog();
     LogHelper.info("################# Technium ################");
     LogHelper.info("Technium pre-initialisation event beginning");
+
+    proxy.preInitialization(event);
 //    ConfigurationHandler.init(event.getSuggestedConfigurationFile());
 
 //    TnModBlocks.initBlocks();
@@ -59,6 +62,8 @@ public class Technium {
   public void initialisationEvent(FMLInitializationEvent event) {
     LogHelper.info("################# Technium ################");
     LogHelper.info("Technium initialisation event beginning");
+
+    proxy.initialization(event);
 //    proxy.initRenderingAndTextures();
 
     LogHelper.info("Technium initialisation event complete");
@@ -69,6 +74,8 @@ public class Technium {
   public void postInitialisationEvent(FMLPostInitializationEvent event) {
     LogHelper.info("################# Technium ################");
     LogHelper.info("Technium post-initialisation event beginning");
+
+    proxy.postInitialization(event);
 
     LogHelper.info("Technium post-initialisation event complete");
     LogHelper.info("###########################################");

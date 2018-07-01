@@ -28,23 +28,23 @@ import com.severedinfinity.tn.utility.IHasModel;
 import net.minecraft.item.Item;
 
 //FIXME one class for them all not so sure
-public class ItemTnBase extends Item implements IHasModel {
+public class ItemTnBase extends Item  {
 
 
     public ItemTnBase(String name) {
         super();
 //        this.setMaxStackSize(1);
 //        this.setNoRepair();
-        this.setCreativeTab(CreativeTab.TN_TAB);
-        this.setUnlocalizedName("tn:" + name);
+        this.setCreativeTab(Technium.TN_TAB);
+        this.setUnlocalizedName(Reference.MOD_ID + "." + name);
         //This fucking line was required for registry to work but not mention anywhere
         this.setRegistryName(Reference.MOD_ID, name);
 
-        TnModItems.ITEMS.add(this);
+//        TnModItems.ITEMS.add(this);
     }
 
-    @Override
-    public void registerModel() {
-        Technium.proxy.registerItemRender(this, 0, "inventory");
-    }
+
+//    public void registerModel() {
+//        Technium.proxy.registerItemRender(this, 0, "inventory");
+//    }
 }

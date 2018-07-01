@@ -25,7 +25,12 @@ import com.severedinfinity.tn.reference.*;
 import net.minecraft.creativetab.*;
 import net.minecraft.item.*;
 
-public class CreativeTab {
+public class CreativeTab extends CreativeTabs {
+
+//    public final static CreativeTab TN_TAB = new CreativeTab(Reference.MOD_ID);
+    public CreativeTab(String label) {
+        super(label + ".tab");
+    }
 
 //    public CreativeTab(String label) {
 //        super("Technium");
@@ -40,12 +45,16 @@ public class CreativeTab {
 //        return new ItemStack(TnModItems.COPPER_INGOT);
 //    }
 
-  public static final CreativeTabs TN_TAB = new CreativeTabs(Reference.MOD_ID) {
+//  public static final CreativeTabs TN_TAB = new CreativeTabs(Reference.MOD_ID) {
+//    @Override
+//    public ItemStack getTabIconItem() {
+//      //TODO add creative tab icon
+//      return new ItemStack(TnModItems.INGOT_COPPER);
+//    }
+//  };
+
     @Override
     public ItemStack getTabIconItem() {
-      //TODO add creative tab icon
-      return new ItemStack(TnModItems.INGOT_COPPER);
+        return new ItemStack((TnModItems.INGOT_COPPER));
     }
-  };
-
 }

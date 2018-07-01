@@ -21,15 +21,15 @@
 package com.severedinfinity.tn.proxy;
 
 import net.minecraft.item.Item;
+import net.minecraftforge.fml.common.event.FMLInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 public interface IProxy {
-//  public abstract ClientProxy getClientProxy();
 
-    public abstract void initRenderingAndTextures();
+    public void preInitialization(FMLPreInitializationEvent event);
 
-    public abstract void registerEventHandlers();
+    public void initialization(FMLInitializationEvent event);
 
-    public abstract void registerKeybindings();
-
-    public void registerItemRender(Item item, int meta, String id);
+    public void postInitialization(FMLPostInitializationEvent event);
 }

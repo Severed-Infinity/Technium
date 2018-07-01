@@ -20,30 +20,25 @@
  */
 package com.severedinfinity.tn.proxy;
 
-//import com.severedinfinity.tn.initialise.*;
+import net.minecraftforge.fml.common.event.FMLInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
-import net.minecraft.client.renderer.block.model.ModelResourceLocation;
-import net.minecraft.item.Item;
-import net.minecraftforge.client.model.ModelLoader;
+public class ClientProxy implements IProxy {
 
-public class ClientProxy extends CommonProxy {
-//  @Override
-//  public ClientProxy getClientProxy() {
-//    return null;
-//  }
 
-  @Override
-  public void initRenderingAndTextures() {
-//    TnModItems.initRenders();
-//    TnModBlocks.initRenders();
-  }
+    @Override
+    public void preInitialization(FMLPreInitializationEvent event) {
 
-  @Override
-  public void registerKeybindings() {
-  }
+    }
 
-  @Override
-  public void registerItemRender(Item item, int meta, String id) {
-    ModelLoader.setCustomModelResourceLocation(item, meta, new ModelResourceLocation(item.getRegistryName(), id));
-  }
+    @Override
+    public void initialization(FMLInitializationEvent event) {
+
+    }
+
+    @Override
+    public void postInitialization(FMLPostInitializationEvent event) {
+
+    }
 }

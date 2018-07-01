@@ -22,6 +22,7 @@ package com.severedinfinity.tn.item;
 
 import com.severedinfinity.tn.reference.Names.*;
 
+//FIXME listed as minecraft:items:tn:ignot_copper
 public class ItemIngotCopper extends ItemTnBase {
   public ItemIngotCopper() {
     super(Items.INGOT_COPPER);

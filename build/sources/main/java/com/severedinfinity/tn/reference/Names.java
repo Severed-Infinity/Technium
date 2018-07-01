@@ -23,11 +23,11 @@ package com.severedinfinity.tn.reference;
 public class Names {
   public static final class Items {
     public static final String INGOT_COPPER = "ingot_copper";
-    public static final java.lang.String COPPER_ORE = "copperOreItem";
+    public static final java.lang.String ORE_COPPER = "ore_copper";
   }
 
   public static final class Blocks {
-    public static final String COPPER_ORE = "copperOre";
-    public static final String SILVER_ORE = "silverOre";
+    public static final String ORE_COPPER = "ore_copper";
+    public static final String ORE_SILVER = "ore_silver";
   }
 }

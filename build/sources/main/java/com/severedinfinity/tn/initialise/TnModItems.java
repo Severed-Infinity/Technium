@@ -21,14 +21,17 @@
 package com.severedinfinity.tn.initialise;
 
 import com.severedinfinity.tn.item.ItemIngotCopper;
+import com.severedinfinity.tn.reference.Reference;
 import net.minecraft.item.Item;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@GameRegistry.ObjectHolder(Reference.MOD_ID)
 public class TnModItems {
 
-    public static final List<Item> ITEMS = new ArrayList<>();
-    public static final Item INGOT_COPPER = new ItemIngotCopper();
+//    public static final List<Item> ITEMS = new ArrayList<>();
+    public static final Item INGOT_COPPER = null; //= new ItemIngotCopper();
 
 }
